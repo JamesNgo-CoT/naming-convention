@@ -18,7 +18,7 @@ My naming conventions.
 
 - Kebab Case
 
-## Attributes
+### Attributes
 
 - Kebab Case
 
@@ -72,12 +72,12 @@ My naming conventions.
 - Pascal Case
 - Plural Noun
 
-## Entity Fields
+### Entity Fields
 
 - Pascal Case
 - Singular Noun
 
-## Action Endpoints
+### Action Endpoints
 
 - Pascal Case
 - Verb
