@@ -81,3 +81,14 @@ My naming conventions.
 
 - Pascal Case
 - Verb
+
+## GitHub
+
+### Repository
+
+- Kebab Case
+
+### Commit Message
+
+- [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
