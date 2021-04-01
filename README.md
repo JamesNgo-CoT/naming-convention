@@ -77,7 +77,7 @@ My naming conventions.
 - Pascal Case
 - Singular Noun
 
-### Action Endpoints
+### Action
 
 - Pascal Case
 - Verb
